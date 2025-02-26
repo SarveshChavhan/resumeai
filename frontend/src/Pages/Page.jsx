@@ -4,7 +4,7 @@ import React from 'react'
 const Page = () => {
   return (
     <main className="min-h-screen bg-gray-50">
-      <div className="container mx-auto px-8 py-20 pl-45">
+      <div className="container mx-auto px-8 py-20 pl-45 pr-45">
         {/* Hero Section */}
         <div className="text-center w-full max-w-4xl mx-auto mb-24">
           <h1 className="text-6xl font-bold mb-6 bg-gradient-to-r from-blue-600 to-blue-400 bg-clip-text text-transparent">
